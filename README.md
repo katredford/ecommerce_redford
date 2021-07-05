@@ -8,7 +8,7 @@ find all the products and categories in the backend for the ecommerce sight
   
   ## walkthrough
 
-walkthrough video link: https://youtu.be/vdDAvNFYgCM
+walkthrough video link: https://youtu.be/JGSPTDncnMs
   
   ## Email
   katharine.redford@gmial.com
